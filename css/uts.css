@@ -120,7 +120,7 @@ body {
 
 .hero::before{
   content: "";
-  background-image: url(/pengembangan_web/img/XyKOA5Z7R93W6oy92p1ndbkD-image-maker.jpg);
+  background-image: url(/img/XyKOA5Z7R93W6oy92p1ndbkD-image-maker.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
